@@ -4,10 +4,10 @@ this website provide full CRUD functinality and Login validation along with add 
 functionality.
 ***
 ### Tech Stack
-  PHP
-  HTML
-  CSS
-  JS
+* PHP
+* HTML
+* CSS
+* JS
  
 ### How to run locally
 1. install wamp server
