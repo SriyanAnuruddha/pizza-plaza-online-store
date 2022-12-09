@@ -14,7 +14,7 @@ functionality.
 2. run wamp server
 3. download the folder(pizza plaza) of this website then store that in WWWW folder in wamp server
 4. create database tables using 'database files.sql' file.
-5. run this command on your favorite browser
+5. copy this into URL section of your favorite browser
 ```
 localhost/pizza plaza
 ```
