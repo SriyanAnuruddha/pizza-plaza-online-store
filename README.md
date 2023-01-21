@@ -3,7 +3,8 @@
 this a website created for pizza resturant.
 ***
 ### Available Functionalities 
-### for users
+### for users,
+- users can register & login
 
 ### Tech Stack
 * PHP
