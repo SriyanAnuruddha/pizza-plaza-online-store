@@ -5,6 +5,15 @@ this a website created for pizza resturant.
 ### Available Functionalities 
 ### for users,
 - users can register & login
+- users can add products to cart 
+- users can view cart (total amount is automatically calculated)
+- users can place the order
+- users canchange their user account details (Ex:- username,address,phone number)
+- users can view their purchase history
+### for admins,
+- admins can add products,remove products, update details about products
+- admins can manage customers
+- admins can view monthly report about income and expenses
 
 ### Tech Stack
 * PHP
