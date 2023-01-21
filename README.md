@@ -1,8 +1,10 @@
 # pizza-plaza-online-store
 
-this website provide full CRUD functinality and Login validation along with add to cart
-functionality.
+this a website created for pizza resturant.
 ***
+## Available Functionalities 
+#### for users
+
 ### Tech Stack
 * PHP
 * HTML
