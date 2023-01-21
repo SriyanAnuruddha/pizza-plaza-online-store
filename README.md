@@ -2,8 +2,8 @@
 
 this a website created for pizza resturant.
 ***
-## Available Functionalities 
-#### for users
+### Available Functionalities 
+### for users
 
 ### Tech Stack
 * PHP
